@@ -14,7 +14,9 @@ public class Main{
         for(int i =0; i <= n; i++){
             sum += i;
         }
-        System.out.println("Результат суммы от 1 до " + n + " = " + sum);
+<<<<<<< HEAD
+        System.out.println("Сумма чисел от 1 до " + n + " равна " + sum);
+>>>>>>> conflict-task-b
         sc.close();
     }
 }
