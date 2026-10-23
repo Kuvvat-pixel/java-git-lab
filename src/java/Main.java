@@ -15,7 +15,15 @@ public class Main{
             sum += i;
         }
 <<<<<<< HEAD
+        for (int i = 0; i <= n; i++) {
+            sum += i;
+        }
+
         System.out.println("Сумма чисел от 1 до " + n + " равна " + sum);
+
+        sc.close();
+    }
+}
 >>>>>>> conflict-task-b
         sc.close();
     }
