@@ -1,2 +1,2 @@
 Git laboratory project
-Rebase practice
+Rebase practice — branch B
