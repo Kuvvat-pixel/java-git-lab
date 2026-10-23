@@ -14,7 +14,7 @@ public class Main{
         for(int i =0; i <= n; i++){
             sum += i;
         }
-        System.out.print("Сумма чисел от 1 до "+n+" = "+sum);
+        System.out.println("Результат суммы от 1 до " + n + " = " + sum);
         sc.close();
     }
 }
