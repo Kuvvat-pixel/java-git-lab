@@ -1,6 +1,5 @@
-package  com.example;
-class Main{
+public class Main {
     public static void main(String[] args) {
-        System.out.println("6 вариант лабы с git");
+        System.out.println("6 вариант лабораторной по Git");
     }
 }
